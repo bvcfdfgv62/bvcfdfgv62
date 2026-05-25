@@ -49,5 +49,5 @@ Desenvolvedor de Software focado em construir ecossistemas **Sistemas robustos**
 
 ### 📬 Conecte-se Comigo
 - 🌐 **Website/Portfólio**:(https://github.com/bvcfdfgv62)
-- 💼 **LinkedIn**: [kaian-thiago-prates-brito-052a7a266](https://www.linkedin.com/in/kaian-thiago-prates-brito-052a7a266/)
+- 💼 **LinkedIn**: [kaian-thiago-prates-brito-052a7a266](https://www.linkedin.com/in/kaian-thiago-prates-brito-052a7a366/)
 - 📧 **E-mail**: [kaianthiago2345@gmail.com](mailto:kaianthiago2345@gmail.com)
