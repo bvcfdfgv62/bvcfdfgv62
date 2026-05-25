@@ -40,12 +40,6 @@ Desenvolvedor de Software focado em construir ecossistemas **Sistemas robustos**
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-| ![Estatísticas Kaian](https://github-readme-stats.vercel.app/api?username=bvcfdfgv62&show_icons=true&theme=dark&bg_color=080710&border_color=3b82f6&hide_title=true) | ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=bvcfdfgv62&layout=compact&theme=dark&bg_color=080710&border_color=3b82f6&hide_title=true) |
-|---|---|
-
----
 
 ### 📬 Conecte-se Comigo
 - 🌐 **Website/Portfólio**:(https://github.com/bvcfdfgv62)
