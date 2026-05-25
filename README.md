@@ -1,6 +1,6 @@
 # Olá, eu sou o **Kaian Prates** 👋
 
-Desenvolvedor de Software focado em construir ecossistemas **SaaS robustos** e **fluxos de automações de processos** de alta performance. 
+Desenvolvedor de Software focado em construir ecossistemas **Sistemas robustos** e **fluxos de automações de processos** de alta performance. 
 
 ---
 
@@ -48,6 +48,6 @@ Desenvolvedor de Software focado em construir ecossistemas **SaaS robustos** e *
 ---
 
 ### 📬 Conecte-se Comigo
-- 🌐 **Website/Portfólio**: [kaianprates.dev](https://github.com/bvcfdfgv62)
+- 🌐 **Website/Portfólio**:(https://github.com/bvcfdfgv62)
 - 💼 **LinkedIn**: [kaian-thiago-prates-brito-052a7a266](https://www.linkedin.com/in/kaian-thiago-prates-brito-052a7a266/)
-- 📧 **E-mail**: [kaianprates@gmail.com](mailto:kaianprates@gmail.com)
+- 📧 **E-mail**: [kaianthiago2345@gmail.com](mailto:kaianthiago2345@gmail.com)
